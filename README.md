@@ -1,6 +1,6 @@
-# LiveInfo
+# LiveInfo Flutter App
 
-Wheather, News and Stocks app
+Live info flutter app provides the user with Weather, News and Stocks
 
 ![Screenshot](https://drive.google.com/uc?export=view&id=1PLEK6ymxOPgBtGt9nAouAPcM8Ys-WjmH)
 
